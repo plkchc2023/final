@@ -1,0 +1,3 @@
+0 bg
+1 caps
+2 rock
